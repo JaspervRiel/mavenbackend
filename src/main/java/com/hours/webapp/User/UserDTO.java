@@ -52,11 +52,4 @@ public class UserDTO {
         this.email = email;
     }
 
-    public Set<Image> getImages() {
-        return images;
-    }
-
-    public void setImages(Set<Image> images) {
-        this.images = images;
-    }
 }
